@@ -1,5 +1,15 @@
 # 🍔 Проект Sprint_5 — Автотесты для сервиса *Stellar Burgers*
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Selenium-WebDriver-green?logo=selenium" alt="Selenium">
+  <img src="https://img.shields.io/badge/Pytest-Framework-orange?logo=pytest" alt="Pytest">
+  <img src="https://img.shields.io/badge/Page%20Object%20Model-POM-lightgrey" alt="POM">
+  <img src="https://img.shields.io/badge/Allure-Report-red?logo=allure" alt="Allure Report">
+</p>
+
+---
+
 ## 📘 Описание проекта
 
 В проекте написаны автотесты для сервиса **Stellar Burgers** — космического фастфуда,  
